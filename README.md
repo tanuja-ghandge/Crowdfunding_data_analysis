@@ -61,3 +61,7 @@ This project presents an interactive Crowdfunding Dashboard built to analyze cam
       🧮 Data Cleaning & Transformation
 
       📉 Data Visualization
+
+
+### Dashboard
+look like this: https://github.com/tanuja-ghandge/Crowdfunding_data_analysis/blob/main/Tableau_dashboard_Screenshot.png
