@@ -1,7 +1,7 @@
 # Crowdfunding data analysis dashboard
 
 ### Project Overview
-      This project presents an interactive Crowdfunding Dashboard built to analyze campaign performance, funding trends, and success rates            across different categories and timelines. The dashboard provides key insights that help understand factors influencing project success
+This project presents an interactive Crowdfunding Dashboard built to analyze campaign performance, funding trends, and success rates            across different categories and timelines. The dashboard provides key insights that help understand factors influencing project success
 
 ### 🔹Key Features
       📈 Overall Success Rate Analysis (38.35%)
