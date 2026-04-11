@@ -54,7 +54,7 @@ This project presents an interactive Crowdfunding Dashboard built to analyze cam
       Backer engagement trends
 
 ### 🛠️ Tools & Technologies Used
-      📊 Power BI
+      📊 Tableau
 
       📑 Excel
 
